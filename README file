@@ -1,1 +1,36 @@
+# Housing Market Analysis | Tableau
 
+## Project Overview
+
+This project presents an interactive Tableau dashboard exploring residential housing prices and the property characteristics associated with them.
+
+Using a dataset of **1,460 residential properties**, the analysis examines sale price distributions, building types, living area, house styles, and overall property quality.
+
+The objective is to identify meaningful housing market patterns and communicate findings through clear, interactive data visualizations.
+
+## Interactive Dashboard
+
+**[View Housing Market Analysis on Tableau Public](https://public.tableau.com/app/profile/akshata.pai/viz/HousingRates/HousingMarketAnalysis)**
+
+### Dashboard Preview
+
+![Housing Market Analysis Dashboard](Housing%20Market%20Analysis.png)
+
+## Tools & Technologies
+
+- Tableau Desktop / Tableau Public
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Trend Analysis
+- Dashboard Design and Storytelling
+
+## Dataset Overview
+
+| Attribute | Description |
+|---|---|
+| Dataset | Residential Housing Sales |
+| Total Records | 1,460 properties |
+| Primary Metric | Sale Price |
+| Key Dimensions | Building Type, House Style, Overall Quality |
+| Additional
