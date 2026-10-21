@@ -8,14 +8,15 @@ Using a dataset of **1,460 residential properties**, the analysis examines sale 
 
 The objective is to identify meaningful housing market patterns and communicate findings through clear, interactive data visualizations.
 
+
 ## Interactive Dashboard
 
-**[View Housing Market Analysis on Tableau Public](https://public.tableau.com/app/profile/akshata.pai/viz/HousingRates/HousingMarketAnalysis)**
+[View Housing Market Analysis on Tableau Public](https://public.tableau.com/app/profile/akshata.pai/viz/HousingRates/HousingMarketAnalysis)
 
-### Dashboard Preview
+## Dashboard Preview
 
-![Housing Market Analysis Dashboard](Housing Market Analysis.png)
-
+![Housing Market Analysis Dashboard](Housing%20Market%20Analysis.png)
+  
 ## Tools & Technologies
 
 - Tableau Desktop / Tableau Public
